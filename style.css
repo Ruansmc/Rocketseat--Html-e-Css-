@@ -1,3 +1,19 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#persona {
+    width: 592px;
+    margin: 0px auto 72px;
+    }
+
+#persona img{
+    margin-bottom: 72px;
+}
+
 h1 {
     font-family: 'Inter',sans-serif;
     font-size: 40px;
@@ -6,21 +22,11 @@ h1 {
     
     }
 
-body {
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
-}
-
-#persona {
-    width: 592px;
-    margin: auto;
-    }
-
 h1 span {
-    
+    margin-bottom: 32px;
     font-weight: bold;
 }
-
+ 
 
 span, a {
     color: #FF9900
@@ -29,5 +35,9 @@ span, a {
 
 p {
     color: #7D7987
+    
+}
 
+#footer a + a{
+    margin-left: 34px;
 }
