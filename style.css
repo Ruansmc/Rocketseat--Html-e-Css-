@@ -33,10 +33,12 @@ span, a {
 }
 
 
-p {
+p, #footer {
     color: #7D7987
     
 }
+
+
 
 #footer a + a{
     margin-left: 34px;
@@ -45,5 +47,10 @@ p {
 #line {
     width: 568px;
     height: 0px;
-    border: 1px red solid;
+    
+    margin: auto;
+    margin-bottom: 8px;
+    border: 1px #ECEFF2 solid;
+
+    
 }
