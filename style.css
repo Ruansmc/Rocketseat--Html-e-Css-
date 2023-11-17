@@ -34,11 +34,17 @@ span, a {
 
 
 p, #footer {
-    color: #7D7987
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
     
 }
 
-
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
 
 #footer a + a{
     margin-left: 34px;
