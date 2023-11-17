@@ -41,3 +41,9 @@ p {
 #footer a + a{
     margin-left: 34px;
 }
+
+#line {
+    width: 568px;
+    height: 0px;
+    border: 1px red solid;
+}
