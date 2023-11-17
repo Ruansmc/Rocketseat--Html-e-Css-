@@ -7,11 +7,11 @@ body {
 
 #persona {
     width: 592px;
-    margin: 0px auto 72px;
+    margin: 0px auto 52px;
     }
 
 #persona img{
-    margin-bottom: 72px;
+    margin-bottom: 52px;
 }
 
 h1 {
@@ -51,7 +51,7 @@ p, #footer {
 }
 
 .line {
-    width: 568px;
+    width: 368px;
     height: 0px;
     
     margin: auto;
